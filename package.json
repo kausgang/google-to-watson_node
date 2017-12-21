@@ -1,0 +1,8 @@
+{
+  "name": "google-to-watson_node",
+  "version": "0.0.1",
+  "dependencies": {
+    "extfs": "0.0.7",
+    "watson-developer-cloud": "^3.0.3"
+  }
+}
